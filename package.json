@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "acorn": "^5.7.1",
+    "bootstrap-vue": "^2.0.0-rc.11",
+    "esmangle": "^1.0.1",
     "vue": "^2.5.11",
     "vue-object-view": "^0.4.2"
   },
